@@ -7,3 +7,5 @@ In the program, the user will be able to use a random number and password genera
 Basic concepts of the program:
 1. Everything should be in one file (scripts and styles are written in an HTML file).
 2. You can work with the program without an Internet connection
+
+How to use the program - just take the HTML file and open it in any browser!
